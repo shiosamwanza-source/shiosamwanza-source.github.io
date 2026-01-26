@@ -40,7 +40,35 @@ I write so that memory resists erasure, belief survives without fear, and power 
 
 ### The Present Moment
 - *Digital Insurrection*
+<h2>Books</h2>
 
+<div class="books">
+  
+  <div class="book">
+    <img src="images/djinn-princes-pact.jpg" alt="The Djinn Prince's Pact">
+    <h3>The Djinn Prince’s Pact</h3>
+    <p>Epic fantasy of forbidden pacts, memory, and power.</p>
+  </div>
+
+  <div class="book">
+    <img src="images/indelible-archive.jpg" alt="The Indelible Archive">
+    <h3>The Indelible Archive</h3>
+    <p>When erasure fails, the forgotten fight back.</p>
+  </div>
+
+  <div class="book">
+    <img src="images/spirit-of-resistance.jpg" alt="The Spirit of Resistance">
+    <h3>The Spirit of Resistance</h3>
+    <p>The legend of Mkwawa and defiance against empire.</p>
+  </div>
+
+  <div class="book">
+    <img src="images/caliphate-dispute.jpg" alt="Caliphate and the Foundations of Dispute">
+    <h3>Caliphate and the Foundations of Dispute</h3>
+    <p>Power, succession, and political theology in early Islam.</p>
+  </div>
+
+</div>
 ---
 
 ## Contact
