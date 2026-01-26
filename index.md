@@ -47,7 +47,7 @@ I write so that memory resists erasure, belief survives without fear, and power 
 
 For serious correspondence only:
 
-**Email:** yourname@proton.me
+**Email:** sadofaraji@proton.me
 
 ---
 
