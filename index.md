@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Sado Faraji
 
 Writer on power, belief, obedience, and resistance.
